@@ -1,7 +1,7 @@
 # AuraMusic AI
 
 ![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)
-![Release](https://img.shields.io/github/v/release/hubkalukas/rozhodn-ne-ai-pro-blbosti?label=Latest%20APK)
+![Release](https://img.shields.io/github/v/release/hubkalukas/AuraMusic-AI?label=Latest%20APK)
 
 Offline hudební přehrávač pro Android s chytrými doporučeními přímo v zařízení ve stylu YouTube Music.
 
@@ -11,8 +11,8 @@ Offline hudební přehrávač pro Android s chytrými doporučeními přímo v z
 
 ## ⬇️ Stažení aplikace
 
-- **[Stáhnout AuraMusic-v1.2.0.apk (nejnovější verze)](https://github.com/hubkalukas/rozhodn-ne-ai-pro-blbosti/releases/latest/download/AuraMusic-v1.2.0.apk)**
-- Kompletní přehled verzí a soubor `update-manifest.json` najdeš v sekci [Releases](https://github.com/hubkalukas/rozhodn-ne-ai-pro-blbosti/releases).
+- **[Stáhnout AuraMusic-v1.2.0.apk (nejnovější verze)](https://github.com/hubkalukas/AuraMusic-AI/releases/latest/download/AuraMusic-v1.2.0.apk)**
+- Kompletní přehled verzí a soubor `update-manifest.json` najdeš v sekci [Releases](https://github.com/hubkalukas/AuraMusic-AI/releases).
 
 ---
 
@@ -35,6 +35,6 @@ Offline hudební přehrávač pro Android s chytrými doporučeními přímo v z
 
 ## Instalace
 
-1. Stáhni nejnovější soubor `AuraMusic-v1.2.0.apk` ze sekce [Releases](https://github.com/hubkalukas/rozhodn-ne-ai-pro-blbosti/releases).
+1. Stáhni nejnovější soubor `AuraMusic-v1.2.0.apk` ze sekce [Releases](https://github.com/hubkalukas/AuraMusic-AI/releases).
 2. Otevři stažené APK v telefonu a povol instalaci z neznámých zdrojů, pokud si ji systém vyžádá.
 3. Po spuštění povol přístup k hudebním souborům v zařízení.
